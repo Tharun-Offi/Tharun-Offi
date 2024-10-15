@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tharun M
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Full Stack Development using Python
+- 📫 How to reach me tharunmbecse@gmail.com
