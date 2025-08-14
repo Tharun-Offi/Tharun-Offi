@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a gro
 ## 📫 How to Reach Me
 - 📧 [Email](mailto:tharunmbecse@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tharun-offi/)
-- 🔗 [Portfolio](https://www.tharun-murugavel.netlify.app/)
+- 🔗 [Portfolio](https://tharun-murugavel.netlify.app/)
 
 ---
 
